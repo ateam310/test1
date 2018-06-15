@@ -2,9 +2,9 @@
 ![](https://github.com/ateam310/test1/blob/master/1.png) 
 # 第二步，创建自己的项目
 1.点击“新建项目”，输入项目名称，进入下一步
-图2
+![](https://github.com/ateam310/test1/blob/master/2.png) 
 2.输入项目名称，点击确定进入 "下一步"
-图3
+![](https://github.com/ateam310/test1/blob/master/3.png) 
 # 第三步，上传文件
 1.点击“上传文件夹”
 图4
